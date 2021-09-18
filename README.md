@@ -119,7 +119,38 @@ Here You can See how to Website Works
     password: "Enter Your Password",
   }
   ```
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/DylPogmtATVaqJLuif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DylPogmtATVaqJLuif">via GIPHY</a></p>
+  ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+
+### Competitive Question
+Get Sorted Competitve Question from the coding platform
+    * [GFG](https://getbootstrap.com)
+    * [Codeforces](https://getbootstrap.com)
+    * [CodeChef](https://getbootstrap.com)
+    * [SPOJ](https://getbootstrap.com)
+    
+    ```js
+    {
+      gfgid: "Your GFG Profile name",
+      Codeforcesid: "YOur Codeforces handle id",
+      Codechef: "Your Codechef id",
+      SPOJ: "Your Spoj id"
+      }
+    ```
+   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+     
+### DSA vedios
+  used React player npm package 
+  ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+    
+### Blogs
+used Dante3 Editor for Blogs Editing Option
+![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+
+### Online Compiler
+used JudgeOCE Api for Online Complier 
+![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+   
+     
 
 <!-- CONTRIBUTING -->
 ## Contributors
