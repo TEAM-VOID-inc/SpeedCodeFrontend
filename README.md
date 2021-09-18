@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.ibb.co/qFSwKw6/unnamed-removebg-preview-1.png"  alt="unnamed-removebg-preview" width="200px" height:"200px">
+    <img src="https://i.ibb.co/qFSwKw6/unnamed-removebg-preview-1.png"  alt="unnamed-removebg-preview" width="150px" height:"150px">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
