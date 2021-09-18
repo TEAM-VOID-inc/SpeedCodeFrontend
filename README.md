@@ -35,7 +35,6 @@
 
   <p align="center">
     Get Best Competitive Programming Sorted Question and Vedios
-  
     <br />
     <a href="https://switcode-d1b49.web.app/">View Demo</a>
   </p>
@@ -60,12 +59,18 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+        <li>
+      <a href="#website-preview">Webiste Preview</a>
+      <ul>
+        <li><a href="#login">Prerequisites</a></li>
+        <li><a href="#competitveQuestion">Login</a></li>
+        <li><a href="#competitveQuestion">Competitve Questions</a></li>
+        <li><a href="#DSAvedios">DSA Vedios</a></li>
+        <li><a href="#Blogs">Blogs</a></li>
+        <li><a href="#Compiler">Compiler</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributors</a></li>
   </ol>
 </details>
 
@@ -89,10 +94,13 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+The list of major frameworks that is used to built SpeedCode.
+* [React](https://getbootstrap.com)
+* [Axios](https://getbootstrap.com)
+* [MaterialUI](https://getbootstrap.com)
+* [Dante2](https://getbootstrap.com)
+* [Socket.io](https://getbootstrap.com)
+* [Sass](https://getbootstrap.com)
 
 
 
