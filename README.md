@@ -128,6 +128,8 @@ Get Sorted Competitve Question from the coding platform
     * [CodeChef](https://getbootstrap.com)
     * [SPOJ](https://getbootstrap.com)
     
+
+    The required id for Access this Section
     ```js
     {
       gfgid: "Your GFG Profile name",
@@ -139,16 +141,28 @@ Get Sorted Competitve Question from the coding platform
    ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
      
 ### DSA vedios
-  used React player npm package 
+used React player npm package 
+```js
+  "Go to the link you like"
+```
+<br/>
   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
     
 ### Blogs
 used Dante3 Editor for Blogs Editing Option
-![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+```js
+  "Go to the link you like"
+```
+<br/>
+   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
 
 ### Online Compiler
 used JudgeOCE Api for Online Complier 
-![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+```js
+  "Website/Compiler"
+```
+<br/>
+   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
    
      
 
