@@ -138,31 +138,31 @@ Get Sorted Competitve Question from the coding platform
       SPOJ: "Your Spoj id"
       }
     ```
-   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+   ![Alt Text](https://media.giphy.com/media/yyThqCrCaHxgpEj8qo/giphy.gif?cid=790b76113afdffcfeff9b45adce29f5f46434ba1d588f7e6&rid=giphy.gif&ct=g)
      
 ### DSA vedios
 used React player npm package 
 ```js
   "Go to the link you like"
 ```
-<br/>
-  ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+
+![Alt Text](https://media.giphy.com/media/NSUnpfnZKl9VWqYK23/giphy.gif?cid=790b76117b24005a16354b6a92af4e1a88d26a0b58108963&rid=giphy.gif&ct=g)
     
 ### Blogs
 used Dante3 Editor for Blogs Editing Option
 ```js
   "Go to the link you like"
 ```
-<br/>
-   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+
+![Alt Text](https://media.giphy.com/media/Q6XBKcv0KDCmB11d8Q/giphy.gif?cid=790b76111a5a1183a9353b62d2ed4937a9fce45bd54052d4&rid=giphy.gif&ct=g)
 
 ### Online Compiler
 used JudgeOCE Api for Online Complier 
 ```js
   "Website/Compiler"
 ```
-<br/>
-   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
+
+![Alt Text](https://media.giphy.com/media/MwzI2f1YOa8BbdWFnn/giphy.gif?cid=790b7611c320135dab96658f1fcd71232febdb37641f8784&rid=giphy.gif&ct=g)
    
      
 
