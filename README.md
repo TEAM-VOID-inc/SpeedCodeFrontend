@@ -168,9 +168,8 @@ used JudgeOCE Api for Online Complier
 <!-- CONTRIBUTING -->
 ## Contributors
 Contributors for this Website
-Yogesh
-Vaibhav Joshi
-
+<a href="https://github.com/yogeshrdr"><b>Yogesh</b>
+<a href="https://github.com/yogeshrdr"><b>Vaibhav Joshi</b>
 
 
 
