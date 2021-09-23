@@ -169,14 +169,13 @@ used JudgeOCE Api for Online Complier
 ## Contributors
 Contributors for this Website
 <p align="left">
-
 <img width=20% src="https://avatars1.githubusercontent.com/u/70858211">&ensp;&ensp;&ensp;
 <img width=20% src="https://avatars1.githubusercontent.com/u/70858211">&ensp;&ensp;&ensp;
 
 </p>
 <a href="https://github.com/yogeshrdr">
 <h4 align="left"><b>Yogesh</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/KushGrandhi"><b>Vaibhav Joshi</b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/yogeshrdr"><b>Vaibhav Joshi</b>
 
   
   </h4></a>
